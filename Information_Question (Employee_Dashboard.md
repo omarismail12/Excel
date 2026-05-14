@@ -1,12 +1,19 @@
 # INFORMATION_Employees_Dashboard:-
 1-This project is an Employee Dashboard created using Microsoft Excel to organize, analyze, and visualize employee data in an interactive and professional way. 
+
 2-The dashboard helps users understand workforce performance and HR information through clear reports and charts. 
+
 3-The project includes employee details such as names, departments, countries, salaries, experience, overtime hours, sick leaves, unpaid leaves, and job rates.
+
 4-Excel tools such as Pivot Tables, Pivot Charts, filters, slicers, and formulas were used to transform raw employee data into meaningful insights and visual reports.
+
 5-Pivot Tables were created to summarize employee distribution by department, gender, and country, while Pivot Charts were used to display salary analysis
 , workforce distribution, and performance trends visually.
+
 6-The dashboard allows users to analyze salaries, compare departments, track employee performance, monitor overtime and leave records, and evaluate workforce distribution across different countries and centers. Interactive filters were added to make the dashboard dynamic and user-friendly, allowing users to customize the analysis based on specific criteria.
+
 7-The main purpose of the project is to support HR management and business decision-making by providing accurate and organized employee insights in a clear visual format.
+
 
 #DATASET USED
 <a href="https://github.com/omarismail12/Excel/blob/main/Question%20(version%202).xlsx" >(Dataset View)</a>
